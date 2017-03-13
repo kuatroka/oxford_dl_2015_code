@@ -1,3 +1,5 @@
+# Below is the oroginal README from the course and it doesn't provide any needed info for out case with Pytorch
+
 # Practical 2
 Machine Learning, spring 2015
 
